@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ugsyhwwbu62/refactored-octo-bassoon-larpity/refs/heads/main/Main.lua"))()
